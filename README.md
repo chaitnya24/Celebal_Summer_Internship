@@ -1,4 +1,4 @@
-# Project Title
+# Celebal Summer Internship (Node.Js)
 
 A concise overview: Node.js + Express REST API with MongoDB—supports CRUD, authentication, and a blogging platform for backend learning.
 
