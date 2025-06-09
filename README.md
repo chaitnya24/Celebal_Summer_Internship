@@ -1,4 +1,4 @@
-# Project Title 🚀
+# Project Title
 
 A concise overview: Node.js + Express REST API with MongoDB—supports CRUD, authentication, and a blogging platform for backend learning.
 
