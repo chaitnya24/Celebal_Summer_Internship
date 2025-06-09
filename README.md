@@ -22,13 +22,7 @@ A concise overview: Node.js + Express REST API with MongoDB—supports CRUD, aut
    ```bash
    npm install
    ```
-3. Create a `.env` file with variables like:
-   ```
-   PORT=3000
-   MONGODB_URI=mongodb://localhost:27017/your-db
-   JWT_SECRET=your_jwt_secret
-   ```
-4. Start the server  
+3. Start the server  
    ```bash
    npm start
    ```
