@@ -3,7 +3,7 @@ const mongoose = require('mongoose');
 const app = express();
 
 const connectDB = async () => {
-    await mongoose.connect('mongodb+srv://chaitanyavish2411:Uwp4ewA20BGaDQxY@week5.97yzglc.mongodb.net/?retryWrites=true&w=majority&appName=Week5')
+    await mongoose.connect('mongodb-url')
         .then(() => console.log("db connected"));
 }
 
